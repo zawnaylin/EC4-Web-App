@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cab168d-db14-4a4d-bd6c-ae4349d7b5b1": {
+      "ProjectGuid": "8cab168d-db14-4a4d-bd6c-ae4349d7b5b1",
+      "DisplayName": "EC4WebApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8c5aac88-1a70-4c1c-8bb4-7035091660fa": {
+      "ProjectGuid": "8c5aac88-1a70-4c1c-8bb4-7035091660fa",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "6d5d5e4e-cbaf-4176-96e9-a450fd9a7e75": {
+      "ProjectGuid": "6d5d5e4e-cbaf-4176-96e9-a450fd9a7e75",
+      "DisplayName": "EC4WebApp",
+      "ColorIndex": 2
+    },
+    "c95ddd19-9b08-413e-aa78-33d9c740a709": {
+      "ProjectGuid": "c95ddd19-9b08-413e-aa78-33d9c740a709",
+      "DisplayName": "EC4WebApp.IntegrationTest",
+      "ColorIndex": 3
+    },
+    "98010bf5-c82c-4ad5-81ec-b58dc199b35c": {
+      "ProjectGuid": "98010bf5-c82c-4ad5-81ec-b58dc199b35c",
+      "DisplayName": "EC4CreditentialManager",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
