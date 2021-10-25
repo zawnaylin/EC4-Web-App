@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MDAud9rSBtClQtfpD339SZY9KYLF2MEI6gmMIBt9Q+Rs2s8htTm6K118meK5//huCizKKEON4Rz2mxzt9+z5Fg==",
+  "dgSpecHash": "rUUfYEpXolTcOizn4sTjxN6UNpxT8dWt+CF13N6Q9m1Id2rp0771/+Hgm9/AEQ74kuBw9swhBI6vw6baY3ewww==",
   "success": true,
   "projectFilePath": "G:\\VSProjects\\EC4WebApp\\EC4WebApp\\EC4WebApp.csproj",
   "expectedPackageFiles": [
@@ -85,8 +85,7 @@
     "C:\\Users\\zawna\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512",
     "C:\\Users\\zawna\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
     "C:\\Users\\zawna\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "C:\\Users\\zawna\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\zawna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+    "C:\\Users\\zawna\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
